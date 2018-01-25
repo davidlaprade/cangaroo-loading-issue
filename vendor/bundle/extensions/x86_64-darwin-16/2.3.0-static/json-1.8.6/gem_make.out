@@ -1,0 +1,13 @@
+current directory: /Users/david/Projects/cangaroo-loading-issue/loading_error_app/vendor/bundle/gems/json-1.8.6/ext/json
+/Users/david/.rbenv/versions/2.3.3/bin/ruby -r ./siteconf20180125-27278-160bx33.rb extconf.rb
+creating Makefile
+
+current directory: /Users/david/Projects/cangaroo-loading-issue/loading_error_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/david/Projects/cangaroo-loading-issue/loading_error_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/david/Projects/cangaroo-loading-issue/loading_error_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
