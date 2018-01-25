@@ -43,3 +43,5 @@ group :development do
 end
 
 gem 'cangaroo', github: 'nebulab/cangaroo', branch: 'master', ref: 'fd9b8df'
+gem 'delayed_job_active_record', '4.1.2'
+gem 'daemons', '1.2.6'
