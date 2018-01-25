@@ -42,3 +42,4 @@ group :development do
   gem 'web-console', '~> 2.0'
 end
 
+gem 'cangaroo', github: 'nebulab/cangaroo', branch: 'master', ref: 'fd9b8df'
